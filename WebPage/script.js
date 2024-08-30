@@ -27,8 +27,6 @@ function updateInputFields() {
             <div class="input-group">
                 <label for="omegaL">Left Wheel Velocity (ωL):</label>
                 <input type="number" id="omegaL" value="0.5" step="0.1">
-            </div>
-            <div class="input-group">
                 <label for="omegaR">Right Wheel Velocity (ωR):</label>
                 <input type="number" id="omegaR" value="0.5" step="0.1">
             </div>
